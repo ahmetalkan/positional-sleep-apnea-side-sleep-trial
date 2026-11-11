@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://positional-sleep-apnea-side-sleep-trial.onrender.com/sitemap.xml
